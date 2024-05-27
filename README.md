@@ -1,7 +1,3 @@
-Certainly! Below is a structured README file for your Python script that simulates the evolution of a stock portfolio using the Monte Carlo method. This README provides an overview of the program, how to set it up, and run it.
-
----
-
 # Portfolio Evolution Simulation using Monte Carlo
 
 This Python script performs a Monte Carlo simulation to project the evolution of a stock portfolio over time. It uses historical stock data to estimate future portfolio values assuming a Brownian motion-like process. The script demonstrates a simplified model where the covariance of the stocks is assumed to be constant over time.
